@@ -72,6 +72,34 @@ Used Power BI to develop visual reporting focused on customer and loan analytics
 
 ➡️ **[View Power BI Analysis](power-bi/)**
 
+## Power BI Dashboard
+
+The Power BI portion of the capstone transforms customer, transaction, fraud, revenue, and loan data into interactive business intelligence reporting. The report contains three pages designed to move from high-level performance monitoring to more focused customer and loan analysis.
+
+### Customer Transactions & Loan Performance
+
+![Customer Transactions and Loan Performance Dashboard](images/power-bi-executive-overview.png)
+
+The executive overview combines customer transaction activity, revenue performance, fraud indicators, merchant-category performance, and loan outcomes in a single report.
+
+Key performance indicators include total transactions, total revenue, average transaction amount, and fraud rate. Additional visualizations examine revenue trends over time, loan application outcomes, top merchant categories by revenue, and fraudulent transactions by channel.
+
+### Customer Transaction Analysis
+
+![Customer Transactions Dashboard](images/power-bi-customer-transactions.png)
+
+This report provides a deeper view of customer transaction behavior. It examines top customers by transaction amount, online versus in-store transactions, revenue by merchant category, and transaction activity over time.
+
+Interactive customer filtering allows individual customers to be selected for more focused analysis.
+
+### Loan Application Analysis
+
+![Loan Applications Dashboard](images/power-bi-loan-applications.png)
+
+This report examines loan approval patterns across several applicant and property characteristics.
+
+Approval rates are compared by income level, property area, education, and employment type. Interactive filters allow the report to be further explored by income and education segments.
+
 ## Selected SQL Analysis
 
 The SQL portion of the project demonstrates the use of relational queries to move beyond basic data retrieval and investigate business questions across multiple datasets.
