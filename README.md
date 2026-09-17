@@ -66,6 +66,44 @@ Used Microsoft Excel to perform financial and operational analysis on banking da
 
 ➡️ **[View Excel Analysis](excel/)**
 
+## Excel Financial & Operational Analysis
+
+The Excel portion of the capstone analyzes organizational budget performance and actual expenditures across departments, cost centers, budget categories, and reporting periods. The analysis combines calculated financial metrics, structured tables, charts, and interactive filtering to make budget performance easier to monitor and interpret.
+
+### Budget Performance Dashboard
+
+![Excel Budget Performance Dashboard](images/excel-budget-dashboard.png)
+
+The primary Excel dashboard provides an executive-level view of financial performance using key metrics for total approved budget, total spending to date, budget utilization, and remaining budget.
+
+The dashboard also includes:
+
+- Monthly budget versus actual expenditure trends
+- Actual expenditures by department
+- Expenditures by budget category
+- Fiscal month filtering
+- Department filtering
+- Budget category filtering
+
+This view allows users to move from high-level budget utilization to more detailed analysis of where organizational spending is occurring.
+
+### Cost Center Budget Analysis
+
+![Excel Cost Center Budget Analysis](images/excel-cost-center-analysis.png)
+
+This analysis compares approved budgets with actual expenditures at the cost-center level. Calculated fields for budget variance and percentage of budget used make it possible to evaluate spending progress across individual branches and headquarters functions.
+
+The accompanying visualization compares actual expenditures against approved budgets across cost centers, helping identify which areas are operating closest to their allocated budgets.
+
+### Department Budget Analysis
+
+![Excel Department Budget Analysis](images/excel-department-analysis.png)
+
+This analysis summarizes budget performance at the department level by comparing approved budget, actual expenditures, remaining variance, and percentage of budget used.
+
+The visualization highlights differences in spending across organizational functions and provides a higher-level view of how departmental expenditures align with approved allocations.
+
+
 ### Phase 4 — Power BI Customer & Loan Analytics
 
 Used Power BI to develop visual reporting focused on customer and loan analytics, transforming analytical results into an accessible business intelligence format.
