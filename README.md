@@ -180,6 +180,8 @@ banking-corporation-data-analytics-capstone/
 
 ## About This Project
 
-This capstone was completed as part of the **Per Scholas Data Analytics** program and was designed to apply analytical concepts across multiple tools and stages of the data analysis process.
+This capstone was completed as part of the Per Scholas Data Analytics program and was designed to apply analytical concepts across multiple tools and stages of the data analysis process.
+
+The project demonstrates my ability to work with relational data, write SQL queries to investigate business questions, analyze financial and operational data using Excel PivotTables and PivotCharts, build interactive Power BI dashboards, identify patterns and data limitations, and communicate analytical findings through clear visualizations and reporting.
 
 The project demonstrates my ability to work with relational data, investigate business questions, identify patterns and data limitations, document analytical reasoning, and communicate findings through queries, spreadsheets, and business intelligence reporting.
