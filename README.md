@@ -68,7 +68,7 @@ Used Microsoft Excel to perform financial and operational analysis on banking da
 
 ## Excel Financial & Operational Analysis
 
-The Excel portion of the capstone analyzes organizational budget performance and actual expenditures across departments, cost centers, budget categories, and reporting periods. The analysis combines calculated financial metrics, structured tables, charts, and interactive filtering to make budget performance easier to monitor and interpret.
+The Excel portion of the capstone analyzes organizational budget performance and actual expenditures across departments, cost centers, budget categories, and reporting periods. I used PivotTables, PivotCharts, calculated financial metrics, structured tables, and interactive slicers to summarize the data and create dashboard-style reporting for budget monitoring and analysis.
 
 ### Budget Performance Dashboard
 
